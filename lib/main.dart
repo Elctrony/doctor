@@ -1,6 +1,6 @@
 import 'package:doctor_signup/doctorList.dart';
-import 'package:doctor_signup/ui/login.dart';
-import 'package:doctor_signup/ui/signup.dart';
+import 'package:doctor_signup/login.dart';
+import 'package:doctor_signup/signup.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
